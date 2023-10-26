@@ -1,2 +1,4 @@
 src/auth/authService/
 src/auth/.env
+src/auth/.vscode/
+.vscode
